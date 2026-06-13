@@ -4,7 +4,7 @@ A football analytics project that predicts World Cup 2026 team probabilities usi
 
 > [!NOTE]
 > **Academic Integrity / Credits**: The raw datasets and tournament fixtures structure compilation are credited to original author Anas Riad (LinkedIn: [Anas Riad](https://www.linkedin.com/in/riadanas/)). 
-> This repository has been customized and optimized with advanced feature engineering, regularized optimization, model benchmarking pipelines, and XAI visualizations for submission to the **Amazon ML School**.
+> This repository has been customized and optimized with advanced feature engineering, regularized optimization, model benchmarking pipelines, and XAI visualizations.
 
 ## Custom ML Enhancements
 
